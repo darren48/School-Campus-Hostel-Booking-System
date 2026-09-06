@@ -1,0 +1,7 @@
+# Grand TAR ABC Student Hostel
+Options -Indexes
+DirectoryIndex index.php
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+</IfModule>
